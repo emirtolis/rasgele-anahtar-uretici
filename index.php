@@ -23,6 +23,8 @@ file_put_contents($path_config, $config);
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" class="github-favicon-svg">
+	<link rel="manifest" href="https://github.com/manifest.json">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/footer.css">
 	<title> Rasgele Anahtar Oluşturucu</title>
@@ -31,12 +33,14 @@ file_put_contents($path_config, $config);
 	<center>
 	<h2>Yeni Anahtar: </h2><p class="key" id="new_key"><?php echo "{$key}\r\n";?></p>
 	<button onclick="window.location.reload()">Yeni Anahtar</button>
-	<br><br><hr>
+	<br><hr>
 	<footer>
 		<h6 class="footer-text">
-			2022 By EMR Mob Studios
+			2022 By EMR Mob Studios <br>
 		</h6>
-	</footer>
+	</footer><hr>
+		<a href="https://github.com/EMRMobStudios/rasgele-anahtar-uretici" target="_blank">Kodları Github'dan İndir!</a><br>
+		<a href="https://github.com/EMRMobStudios/rasgele-anahtar-uretici/blob/main/LICENSE" target="_blank">Lisans ve Telif Hakkı</a>
 	</center>
 </body>
 </html>
