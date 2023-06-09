@@ -6,7 +6,6 @@ Kurulum:
 2. Adım: ZIP dosyasınını hostunuzun içine atın ve buraya çıkara basın. 
 
 
-Demo: https://www.kisa.link/QoRt
+Demo: https://tolis.store/website-demos/rasgele-anahtar-uretici
 
-2022-2023 By EMR Mob Studios INC.
-Tüm Hakları Saklıdır.
+2022-2023 By Emir Tolis.
