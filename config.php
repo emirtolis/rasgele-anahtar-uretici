@@ -2,4 +2,4 @@
 $config['app_key'] = 'true';
 return $config;
 ?>
-<meta http-equiv="refresh" content="0; url=/rasgele-anahtar-olusturucu/">
+<meta http-equiv="refresh" content="0; url=/index.php">
