@@ -27,7 +27,7 @@ file_put_contents($path_config, $config);
 	<link rel="manifest" href="https://github.com/manifest.json">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/footer.css">
-	<title> Rasgele Anahtar Oluşturucu</title>
+	<title>Rasgele Anahtar Oluşturucu</title>
 </head>
 <body>
 	<center>
@@ -36,11 +36,11 @@ file_put_contents($path_config, $config);
 	<br><hr>
 	<footer>
 		<h6 class="footer-text">
-			2022 By EMR Mob Studios <br>
+			2023 By Emir Tolis <br>
 		</h6>
 	</footer><hr>
-		<a href="https://github.com/EMRMobStudios/rasgele-anahtar-uretici" target="_blank">Kodları Github'dan İndir!</a><br>
-		<a href="https://github.com/EMRMobStudios/rasgele-anahtar-uretici/blob/main/LICENSE" target="_blank">Lisans ve Telif Hakkı</a>
+		<a href="https://github.com/emirtolis/rasgele-anahtar-uretici" target="_blank">Kodları Github'dan İndir!</a><br>
+		<a href="https://github.com/emirtolis/rasgele-anahtar-uretici/blob/main/LICENSE" target="_blank">Lisans</a>
 	</center>
 </body>
 </html>
