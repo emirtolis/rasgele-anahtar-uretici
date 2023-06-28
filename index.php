@@ -42,6 +42,6 @@ file_put_contents($path_config, $config);
 			<p>Emir Tolis tarafından <img src="http://cdn.r10.net/emojis/smile.png?site=" width="24px" alt="Gülen Yüz" title="emojis/smile.png"> ile yapıldı</p>
 		</div>
 	</div>
-	<script src="js/script.js"></script>
+	<script src="script.js"></script>
 </body>
 </html>
