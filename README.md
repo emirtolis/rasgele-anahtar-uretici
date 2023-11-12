@@ -1,6 +1,6 @@
 ![img](https://tlscdn.vercel.app/screenshots/rastgele_anahtar_olusturucu-screenshot.png)
 
-Rasgele Anahtar Üretici
+Rastgele Anahtar Üretici
 
 Kurulum:
 
