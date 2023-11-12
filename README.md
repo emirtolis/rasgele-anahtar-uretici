@@ -1,4 +1,4 @@
-![img](https://tlscdn.vercel.app/screenshots/rastgele_anahtar_olusturucu-screenshot.png)
+![img](https://tlscdn.vercel.app/screenshots/1785921758912758921758921657261871289561278652718658791289561297856127895612789569817.png)
 
 Rastgele Anahtar Üretici
 
