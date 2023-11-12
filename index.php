@@ -27,17 +27,18 @@ file_put_contents($path_config, $config);
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="http://github.githubassets.com/favicons/favicon.svg">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<title>Rasgele Anahtar Oluşturucu</title>
+	<title>Rastgele Anahtar Oluşturucu</title>
 </head>
 <body style="text-align:center;"><br>
-	<h2>Rasgele Anahtar Oluşturucu </h2>
+	<h2>Rastgele Anahtar Oluşturucu </h2>
 	<input type="text" id="metin" value="<?php echo "{$key}\r\n";?>" size="33"><br><br>
 	<button onclick="window.location.reload()">Yeni Anahtar</button>
 	<button onclick="kopyala()">Anahtarı Kopyala</button>
 	<div class="github">
 		<hr>
-	    <a href="http://github.com/emirtolis/rasgele-anahtar-uretici" target="_blank">Kodları Github'dan İndir!</a><br>
-		<a href="http://github.com/emirtolis/rasgele-anahtar-uretici/blob/main/LICENSE" target="_blank">Lisans</a><hr>
+	    <a href="http://github.com/emirtolis/rastgele-anahtar-uretici" target="_blank">Kodları Github'dan İndir!</a><br>
+		<a href="http://github.com/emirtolis/rastgele-anahtar-uretici/blob/main/LICENSE" target="_blank">Lisans</a><hr>
+		<img src="https://tlscdn.vercel.app/tolismedya/public/images/brand/94c802a761d578519bd8a056b1dd3808.png" width="70px"></img>
 		<div class="footer">
 			<p>Emir Tolis tarafından <img src="http://cdn.r10.net/emojis/smile.png?site=" width="24px" alt="Gülen Yüz" title="emojis/smile.png"> ile yapıldı</p>
 		</div>
