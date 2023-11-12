@@ -1,5 +1,5 @@
 * EKRAN GÖRÜNTÜSÜ
-![img](http://124m241m.2.rei2.simg.Ctop.92g.c2.cdn.yourimg2.sapis201.net/img/urls&G/oos_912591_12412_124124_124124_512521.jpeg)
+![img](https://tlscdn.vercel.app/screenshots/rastgele_anahtar_olusturucu-screenshot.png)
 
 Rasgele Anahtar Üretici
 
